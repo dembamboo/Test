@@ -5,7 +5,7 @@ included in the default MontageJS project directory.
 >IMPORTANT: Be sure to replace the contents of this readme file with information
 relevant to your application before deploying the application or passing it on to
 a client.
-
+`
 Project Structure
 ============
 
